@@ -1,0 +1,14 @@
+package package2;
+
+import org.testng.annotations.Test;
+
+public class DemoTest {
+	
+@Test (groups = "regression")
+	
+	public void mangoTest()
+	{
+		System.out.println("mango tested");
+	}
+
+}
