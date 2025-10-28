@@ -8,7 +8,7 @@ public class DemoTest {
 	
 	public void mangoTest()
 	{
-		System.out.println("mango tested");
+		System.out.println("package2-workplace2- changes tested");
 	}
 
 }

@@ -8,8 +8,8 @@ public class SampleTest {
 	
 	public void appleTest()
 	{
-		System.out.println("apple tested");
-		System.out.println("banana Tested");
+		System.out.println("package1- workplace2 apple tested");
+		System.out.println("package1 - workplace2 banana Tested");
 	}
 
 }
