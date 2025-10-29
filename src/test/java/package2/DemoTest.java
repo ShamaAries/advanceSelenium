@@ -8,7 +8,8 @@ public class DemoTest {
 	
 	public void mangoTest()
 	{
-		System.out.println("package2-workplace2- changes tested");
+		System.out.println("package2-workplace2- new changes tested");
+		System.out.println("new branch added");
 	}
 
 }
