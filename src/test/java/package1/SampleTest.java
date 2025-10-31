@@ -9,7 +9,7 @@ public class SampleTest {
 	public void appleTest()
 	{
 
-		System.out.println("workplace1- apple tested");
+		System.out.println("apple tested");
 		System.out.println("workplace1- dummy code tested");
 
 	
