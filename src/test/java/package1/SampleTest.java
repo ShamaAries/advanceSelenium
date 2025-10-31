@@ -10,7 +10,7 @@ public class SampleTest {
 	{
 
 		System.out.println("workplace1- apple tested");
-		System.out.println("workplace1- orange tested");
+		System.out.println("workplace1- dummy code tested");
 
 	
 
