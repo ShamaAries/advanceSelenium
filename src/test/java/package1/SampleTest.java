@@ -10,7 +10,8 @@ public class SampleTest {
 	{
 
 		System.out.println("apple tested");
-		System.out.println("workplace1- dummy code tested");
+		System.out.println("workplace1- changes done on github dummy code tested");
+		
 
 	
 
